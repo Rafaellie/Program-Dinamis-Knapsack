@@ -58,7 +58,7 @@ Ikuti prompt untuk input jumlah barang, daftar berat & profit, dan kapasitas kna
 ### Mode Streamlit
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 Akses antarmuka web di `http://localhost:8501`.
