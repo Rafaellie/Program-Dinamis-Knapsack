@@ -72,9 +72,3 @@ Akses antarmuka web di `http://localhost:8501`.
 pytest
 ```
 
-## Demo
-
-* **UI.md**: Petunjuk detail CLI & Streamlit.
-* Demo singkat (<2 menit) menampilkan alur penginputan, visualisasi, dan solusi.
-
----
