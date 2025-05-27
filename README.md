@@ -29,8 +29,8 @@ program dinamis knapsack/
 1. **Clone repository**
 
    ```bash
-   git clone https://github.com/username/knapsack_project.git
-   cd knapsack_project
+   git clone https://github.com/Rafaellie/Program-Dinamis-Knapsack.git
+   cd Program-Dinamis-Knapsack
    ```
 2. **Buat virtual environment**
 
